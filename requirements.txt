@@ -10,7 +10,6 @@ post==2019.3.22
 public==2019.3.22
 pycparser==2.19
 pyTelegramBotAPI==3.6.6
-python-telegram-bot==11.1.0
 query-string==2019.3.22
 request==2019.3.22
 requests==2.21.0
