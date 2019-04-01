@@ -16,7 +16,6 @@ def send_welcome(message):
 @bot.message_handler(func=lambda message: True)
 def upper(message: Message):
     bot.reply_to(message, random.choice(smiles))
-    bot.send_sticker(message.chat.id)
 
 
 bot.polling()
